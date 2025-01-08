@@ -19,7 +19,7 @@ I blend creativity with technical expertise to build a better digital world.
 ⚙️ Automation
 🎨 UI/UX Prototyping
 ## 📬 Let's Connect!
-📧 Email: hale0123@HaroldLe
-🌐 Portfolio: Your Portfolio Link
-🔗 LinkedIn: Your LinkedIn Profile
-💻 GitHub: Your GitHub Profile
+📧 Email: haroldle2735@gmail.com
+🌐 Portfolio: (https://hale0123.github.io/le-portfolio/)
+🔗 LinkedIn: www.linkedin.com/in/harold-le
+💻 GitHub: (https://github.com/Hale0123)
