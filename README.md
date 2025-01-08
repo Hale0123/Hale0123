@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Harold Le!
 ## 🚀 About Me
-I'm an Engineering Student passionate about innovation, problem-solving, and technology.
-My goal is to create impactful solutions in software engineering, web development, and hardware design.
-I blend creativity with technical expertise to build a better digital world.
+Second-Year Software Engineering Student at McMaster University | Aspiring Software Engineer | Passionate About Problem Solving & Innovation. Inspired by innovation and technology I want to use my creativity to help craft the future digital era and shape a brighter world. Feel free to reach out and connect with me.
 
 ## 🛠️ Tech Stack 
 #### Languages
