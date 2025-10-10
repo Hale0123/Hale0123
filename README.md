@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harold Le!
+# 👋 Hi, I'm Tri Le!
 ## 🚀 About Me
 Second-Year Software Engineering Student at McMaster University | Aspiring Software Engineer | Passionate About Problem Solving & Innovation. Inspired by innovation and technology I want to use my creativity to help craft the future digital era and shape a brighter world. Feel free to reach out and connect with me.
 
